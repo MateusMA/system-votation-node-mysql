@@ -1,3 +1,5 @@
+Connection between NODE and MYSQL, and the result of a failed attempt to put HTML and CSS in a Framework Backend.
+
 Test SQL code:
 
 Create database votacao;
